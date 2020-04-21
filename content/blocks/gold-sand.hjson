@@ -1,0 +1,5 @@
+type: floor
+name: Poudre dorée
+itemDrop: gold-powder
+variants: 3
+playerUnmineable: true

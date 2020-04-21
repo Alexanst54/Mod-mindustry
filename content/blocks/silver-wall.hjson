@@ -1,0 +1,10 @@
+name: Mur de vibranium
+description: Un mur de vibranium.
+type: Wall
+health: 10000
+size: 2
+requirements: [
+  silver/40
+]
+category: defense
+research: copper-wall
